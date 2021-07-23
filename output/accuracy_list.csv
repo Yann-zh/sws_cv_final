@@ -1,0 +1,3 @@
+model_name,acc,feature_info,cropped,preprocessing_steps
+SVC_auto,0.9633333333333334,HOG,0,-resize to 48*48-gray scale
+
